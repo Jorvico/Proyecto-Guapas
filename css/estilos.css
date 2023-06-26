@@ -12,7 +12,6 @@ body {
     margin: 0;
 }
 
-
 nav h1,
 footer h1 {
     font-family: 'Coiny', cursive;
@@ -28,7 +27,6 @@ footer a {
     color: #7A7A7A;
     text-decoration: none;
 }
-
 
 nav a:hover {
     text-decoration: underline;
@@ -88,8 +86,6 @@ aside img {
     height: auto;
     width: 50%;
 }
-
-
 
 #titulo {
     font-size: 40px;
